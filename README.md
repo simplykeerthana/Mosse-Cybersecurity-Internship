@@ -1,4 +1,4 @@
-# Moss--Cybersecurity-Internship
+# Mosse-Cybersecurity-Internship
 
 This is a cybersecurity Internship Online Platform to receive a professional industry recognized certificate,
 
