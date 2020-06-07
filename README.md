@@ -2,7 +2,9 @@
 
 This is a cybersecurity Internship Online Platform to receive a professional industry recognized certificate,
 
-Goal to complete this Internship before January 2020
+Goal to complete this Internship before September 2020.
+
+**** Aiming to land a Cybersecurity Internship for next coop term. (4 or months)
 
 **** all these content below is from the internship dashboard. This readme is a checklist to keep me in track. 
 
@@ -26,14 +28,14 @@ Content:
           
 **** Lab Setup (8)
 
-      1. Video Recording (Completed: 
-      2. Virutal Machine (Completed: 
-      3. Software Development (Completed:
-      4. Threat Detections
-      5. Threat Hunting with Pandas
-      6. Threat Hunting with YARA
-      7. Malware Dataset
-      8. Reverse Engineering
+      1. Video Recording (Completed: yes)
+      2. Virutal Machine (Completed: yes)
+      3. Software Development (Completed: yes)
+      4. Threat Detections (Completed:
+      5. Threat Hunting with Pandas (Completed:
+      6. Threat Hunting with YARA (Completed:
+      7. Malware Dataset (Completed:
+      8. Reverse Engineering (Completed: 
       
       
 **** Curriculum 
