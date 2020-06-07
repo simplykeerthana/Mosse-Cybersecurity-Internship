@@ -28,9 +28,9 @@ Content:
           
 **** Lab Setup (8)
 
-      1. Video Recording (Completed: 
-      2. Virutal Machine (Completed: 
-      3. Software Development (Completed:
+      1. Video Recording (Completed: yes)
+      2. Virutal Machine (Completed: yes)
+      3. Software Development (Completed: yes)
       4. Threat Detections (Completed:
       5. Threat Hunting with Pandas (Completed:
       6. Threat Hunting with YARA (Completed:
