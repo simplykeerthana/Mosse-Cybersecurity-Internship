@@ -31,9 +31,9 @@ Content:
       1. Video Recording (Completed: yes)
       2. Virutal Machine (Completed: yes)
       3. Software Development (Completed: yes)
-      4. Threat Detections (Completed:
-      5. Threat Hunting with Pandas (Completed:
-      6. Threat Hunting with YARA (Completed:
+      4. Threat Detections (Completed:yes)
+      5. Threat Hunting with Pandas (Completed:yes )
+      6. Threat Hunting with YARA (Completed: yes)
       7. Malware Dataset (Completed:
       8. Reverse Engineering (Completed: 
       
