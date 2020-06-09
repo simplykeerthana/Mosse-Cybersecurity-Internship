@@ -6,12 +6,12 @@ Goal to complete this Internship before September 2020.
 
 **** Aiming to land a Cybersecurity Internship for next coop term. (4 or months)
 
-**** all these content below is from the internship dashboard. This readme is a checklist to keep me in track. 
+**** all these content below is from the internship dashboard. This readme is a checklist to keep me on track. 
 
 Content:
   
   **** Concepts:
-      **** 7 Pre-Beginner Exercises ****
+      *** Research Based Exercises ***
       
       1. Research the top penetration testing tools (Completed: )
       2. research and write an article on a recent cyber breach (Completed: )
