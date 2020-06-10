@@ -34,8 +34,8 @@ Content:
       4. Threat Detections (Completed:yes)
       5. Threat Hunting with Pandas (Completed:yes )
       6. Threat Hunting with YARA (Completed: yes)
-      7. Malware Dataset (Completed:
-      8. Reverse Engineering (Completed: 
+      7. Malware Dataset (Completed:yes)
+      8. Reverse Engineering (Completed: yes)
       
       
 **** Curriculum 
