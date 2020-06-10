@@ -108,6 +108,10 @@ Defend web applications against common vulnerabilities
       6. Reesearch the most common network protocols and their vulnerabilities (Completed: )
       7. Research the different types of Windsows Credentials (Completed: )
       
+      
+      
+      Series Three Solid 
+      
       NICE Framwork
           1. Knowledge of computer neetworking concepts and protocols, and network security methodologies
           2. knowledge of risk management processes.
