@@ -107,7 +107,8 @@ Defend web applications against common vulnerabilities
       5. Research the most common security log sources (Completed: )
       6. Reesearch the most common network protocols and their vulnerabilities (Completed: )
       7. Research the different types of Windsows Credentials (Completed: )
-      
+      8. Write a Password Politcy (Completed: )
+      9. Write an IT asset Inventory Spreadsheet template. 
       
       
       Series Three Solid 
