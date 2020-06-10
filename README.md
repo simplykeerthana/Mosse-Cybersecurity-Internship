@@ -11,19 +11,7 @@ Goal to complete this Internship before September 2020.
 Content:
   
   **** Concepts:
-      *** Research Based Exercises ***
-      
-      1. Research the top penetration testing tools (Completed: )
-      2. research and write an article on a recent cyber breach (Completed: )
-      3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: )
-      4. Research the major types of enterprise security software. (Completed: )
-      5. Research the most common security log sources (Completed: )
-      6. Reesearch the most common network protocols and their vulnerabilities (Completed: )
-      7. Research the different types of Windsows Credentials (Completed: )
-      
-      NICE Framwork
-          1. Knowledge of computer neetworking concepts and protocols, and network security methodologies
-          2. knowledge of risk management processes.
+   
           
           
 **** Lab Setup (8)
@@ -46,4 +34,18 @@ Content:
     4. Threat Hunting
     5. Secure Software Development
     6. Red Teaming
+    
+ *** Research Based Exercises ***
+      
+      1. Research the top penetration testing tools (Completed: )
+      2. research and write an article on a recent cyber breach (Completed: )
+      3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: )
+      4. Research the major types of enterprise security software. (Completed: )
+      5. Research the most common security log sources (Completed: )
+      6. Reesearch the most common network protocols and their vulnerabilities (Completed: )
+      7. Research the different types of Windsows Credentials (Completed: )
+      
+      NICE Framwork
+          1. Knowledge of computer neetworking concepts and protocols, and network security methodologies
+          2. knowledge of risk management processes.
       
