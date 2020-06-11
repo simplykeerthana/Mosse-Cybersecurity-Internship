@@ -97,6 +97,12 @@ Defend web applications against common vulnerabilities
        WRITE A WEB APPLICATION THAT DETECTS AND BLOCKS AUTOMATED INPUT SUBMISSION TOOLS (Completed: )
 
     6. Red Teaming
+            WRITE A TCP REVERSE-SHELL AS A WINDOWS EXECUTABLE (Completed: )
+            WRITE A HTTPS REVERSE-SHELL (Completed: )
+            EXCLUDE A FOLDER FROM ANTI-VIRUS SCANNING AND RUN MIMIKATZ FROM THERE (Completed: )
+            
+       
+            
     
  *** Research Based Exercises ***
       
