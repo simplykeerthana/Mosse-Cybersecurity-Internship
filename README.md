@@ -105,13 +105,17 @@ Defend web applications against common vulnerabilities
       3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: )
       4. Research the major types of enterprise security software. (Completed: )
       5. Research the most common security log sources (Completed: )
-      6. Reesearch the most common network protocols and their vulnerabilities (Completed: )
+      6. Reesearch the most common network protocols and their vulnerabilities (Completed: )      
       7. Research the different types of Windsows Credentials (Completed: )
       8. Write a Password Politcy (Completed: )
-      9. Write an IT asset Inventory Spreadsheet template. 
+      9. Write an IT asset Inventory Spreadsheet template. (Completed: )
+      10. Research and explain the phases that constitute a Red Team Management. (Completed: )
+      11. Research and explain the difference between Penetration Testing and Red Teaming (Completed: )
+      12. Write a simple Risk Matrix (Completed: )
+      13. Write multiple Security Awareness Posters (Completed: )
+      14. Write an IT Asset Inventory Spreadsheet template. (Completed: )
       
-      
-      Series Three Solid 
+ Series Three Solid 
       
       NICE Framwork
           1. Knowledge of computer neetworking concepts and protocols, and network security methodologies
