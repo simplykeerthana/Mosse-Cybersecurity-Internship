@@ -106,9 +106,9 @@ Defend web applications against common vulnerabilities
     
  *** Research Based Exercises ***
       
-      1. Research the top penetration testing tools (Completed: )
+      1. Research the top penetration testing tools (Completed: yes )
       2. research and write an article on a recent cyber breach (Completed: )
-      3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: )
+      3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: yes )
       4. Research the major types of enterprise security software. (Completed: )
       5. Research the most common security log sources (Completed: )
       6. Reesearch the most common network protocols and their vulnerabilities (Completed: )      
