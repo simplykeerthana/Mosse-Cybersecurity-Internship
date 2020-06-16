@@ -135,39 +135,39 @@ Defend web applications against common vulnerabilities
  1. Use OWASP ZAP to scan a website for vulnerabilites
  
  **** Windows Programming (5)
- 
- 1. WRITE A PROGRAM TO DETECT WHETHER A FOLDER IS WRITABLE
- 2. WRITE A PROGRAM TO DETECT WHETHER A SERVICE IS WRITEABLE
- 3. WRITE A PROGRAM TO DETECT WHETHER A SCHEDULED TASK IS WRITABLE
- 4. WRITE A PROGRAM THAT READS AND WRITES FILES FROM DISK USING THE WINDOWS APIS
- 5. WRITE A DLL THAT SHOWS A HELLO WORLD WHEN RUN WITH RUNDLL32.EXE
+  
+ 1. WRITE A PROGRAM TO DETECT WHETHER A FOLDER IS WRITABLE (Completed: )
+ 2. WRITE A PROGRAM TO DETECT WHETHER A SERVICE IS WRITEABLE (Completed: )
+ 3. WRITE A PROGRAM TO DETECT WHETHER A SCHEDULED TASK IS WRITABLE (Completed: )
+ 4. WRITE A PROGRAM THAT READS AND WRITES FILES FROM DISK USING THE WINDOWS APIS (Completed: )
+ 5. WRITE A DLL THAT SHOWS A HELLO WORLD WHEN RUN WITH RUNDLL32.EXE (Completed: )
  
   **** Malware Development(5) 
   
-  1. Write a Program that captures clipboard data
-  2. Write a Program that captures screenshots
-  3. Draft five spear-phising emails
-  4. Write a web shell in PHP
-  5. Write a program that fuzzes web directories
-  6. Write a TCP reverse-shell as Windows executable
-  7. Wite a HTTPS reverse-shell as a Windows executable 
-  8. Write a HTTPS reverse-shell as SSL pinning
-  9. Write a TCP reverse-shell as a DLL
-  10. Write a malware that automatically bypasses UAC
+  1. Write a Program that captures clipboard data (Completed: )
+  2. Write a Program that captures screenshots (Completed: )
+  3. Draft five spear-phising emails (Completed: )
+  4. Write a web shell in PHP (Completed: )
+  5. Write a program that fuzzes web directories (Completed: )
+  6. Write a TCP reverse-shell as Windows executable (Completed: )
+  7. Wite a HTTPS reverse-shell as a Windows executable  (Completed: )
+  8. Write a HTTPS reverse-shell as SSL pinning (Completed: )
+  9. Write a TCP reverse-shell as a DLL (Completed: )
+  10. Write a malware that automatically bypasses UAC (Completed: )
   
   
   **** Network and Application Reconnaissance
   
-  1. Brute force web directories and files using WFUZZ
-  2. Extract Document metadata using Metagoofil
-  3. Perform DNS scans using Fierce
+  1. Brute force web directories and files using WFUZZ (Completed: )
+  2. Extract Document metadata using Metagoofil (Completed: )
+  3. Perform DNS scans using Fierce (Completed: )
   
   **** Web Application Testing Tools
   
-  1. Use Burp Suite's Spider to crawl a website
-  2. Use Burp Suite to brute force an authentication web page.
-  3. Use BeEF to exploit users using a cross-site scripting vulnerability
-  4. Use Burp Suite to fuzz the user inputs of a website
+  1. Use Burp Suite's Spider to crawl a website (Completed: )
+  2. Use Burp Suite to brute force an authentication web page.(Completed: )
+  3. Use BeEF to exploit users using a cross-site scripting vulnerability (Completed: )
+  4. Use Burp Suite to fuzz the user inputs of a website (Completed: )
       
  Series Three Solid 
       
