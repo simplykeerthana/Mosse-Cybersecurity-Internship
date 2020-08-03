@@ -253,7 +253,14 @@ Defend web applications against common vulnerabilities
 8. Dump the RAM of a Windows Machine (Completed: )
 
 
-  
+****MICS303 - Governance, Risk and Complaince **** (5 Points)
+
+1. Research and Explain how a penetration test should be conducted (1 Point)
+2. Write a simple Risk Matrix (1 Point)
+3. Write a multiple Security Awareness Posters (1 point)
+4. Write a Password Policy (1 Points)
+5. Write an Assest Inventory Spreadsheet Template (1 Point)
+
       
  Series Three Solid 
       
