@@ -168,6 +168,43 @@ Defend web applications against common vulnerabilities
   2. Use Burp Suite to brute force an authentication web page.(Completed: )
   3. Use BeEF to exploit users using a cross-site scripting vulnerability (Completed: )
   4. Use Burp Suite to fuzz the user inputs of a website (Completed: )
+  
+#####Training Modules####
+
+**** MICS101 Internet Searching ****
+
+1. Google Hacking (completed: )
+2. Use Google to identify open FTP servers (completed: )
+3. Use Bing to find all the external links that a website contains (Completed: yes)
+4. Use Google's cache capability to retrieve deleted web pages (completed: )
+5. Use Web Archives to view old versions of websites (completed: yes)
+6. Use Web Archives to find people's old website (completed: )
+7. Use Google Translate (Completed: yes)
+8. Use Advantage to generate complex Google search queries (completed: )
+
+**** MICS102 - Technical Concepts ****
+
+1. Research the top penetration testing tools (Completed: yes)
+2. Research and write an article on a recent cyber breach (Completed: yes)
+3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: yes)
+4. Research the major types of enterprise security software (Completed: yes)
+5. Research the most common network protocols and their vulnerabilities (Completed: yes)
+
+**** MICS103 - Enterprise Securitty Concepts **** (10 Points)
+
+1. Research the difference between procedures, guidelines, and policies (Completed: )
+2. Research ways that organizations may attempt to compromise your professional ethics (Completed: )
+3. Research what are controls and the different types of controls that exist (Completed: )
+4. Research the different types of risk (inherent risk, control risk, detection risk, and overall audit risk (Completed: )
+5. Research the four different types of risk response options (Completed: )
+6. Explain the difference between a threat, a vulnerability and an exploit (Completed: )
+7. Explain the difference between an issue and a risk (Completed: )
+8. Research the difference types of audits (Completed: )
+9. Explian the importance of sampling and how to successfully do it (Completed: )
+10. Research and explain the different types of cyber crimes (Completed: )
+
+  
+  
       
  Series Three Solid 
       
