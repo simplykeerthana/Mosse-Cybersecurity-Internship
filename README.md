@@ -171,7 +171,7 @@ Defend web applications against common vulnerabilities
   
 #####Training Modules####
 
-**** MICS101 Internet Searching ****
+**** MICS101 Internet Searching **** (9 Points)
 
 1. Google Hacking (completed: )
 2. Use Google to identify open FTP servers (completed: )
@@ -203,7 +203,30 @@ Defend web applications against common vulnerabilities
 9. Explian the importance of sampling and how to successfully do it (Completed: )
 10. Research and explain the different types of cyber crimes (Completed: )
 
-  
+**** MICS104 - Facebook OSINT **** (6 Points)
+
+1. Create covert social media accounts (Completed: )
+2. Search content by location on Facebook (Completed: )
+3. Search content posted by a given user on Facebook (Completed: )
+4. Find employees that work for a given employer on Facebook (Completed: )
+5. Create a Mindmap of all the OSINT data that can be captured from Facebook (Completed: )
+
+**** MICS201 - Passive Network Reconnaissance **** (5 Points)
+
+1. Use dnsdumpster.com to passively map an organizations external facing assets (Completed: )
+2. Use shodan.io to passively map an organization's external facing assets (Completed: )
+3. Use crt.sh to identify domains and sub-domains that belong to an organization (Completed: )
+4. Search for information leaks on Github using grep.app (Completed: )
+5. Use whoisds.com to retrieve recently registered domain names for a country (Completed: )
+
+**** MICS203 - Operational Security **** (3 Points)
+
+1. Detect typo squatting and phising with dnstwist.py (Completed: )
+2. Use urlscan.io to identify phishing and spear-phising websites (Completed: )
+3. Create Google searches to find open Cuckoo Sandboxes (Completed: )
+
+
+
   
       
  Series Three Solid 
