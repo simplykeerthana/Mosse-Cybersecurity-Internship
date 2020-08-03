@@ -219,11 +219,20 @@ Defend web applications against common vulnerabilities
 4. Search for information leaks on Github using grep.app (Completed: )
 5. Use whoisds.com to retrieve recently registered domain names for a country (Completed: )
 
-**** MICS203 - Operational Security **** (3 Points)
+**** MICS202 - Discover Attack Campaigns **** (3 Points)
 
 1. Detect typo squatting and phising with dnstwist.py (Completed: )
 2. Use urlscan.io to identify phishing and spear-phising websites (Completed: )
 3. Create Google searches to find open Cuckoo Sandboxes (Completed: )
+
+**** MICS203 - Operational Security **** (5 Points)
+
+1. Lab Setup: Cloud Vm for Threat Intelligence (Completed: )
+2. Conduct a safe port scan of a host (Completed: )
+3. Conduct a safe nslookup of a domain (Completed: )
+4. Conduct a safe HTTP request against a mockup attacker infrastructure (Completed: )
+5. Safely conduct banner grab of ports on a host (Completed: )
+
 
 
 
