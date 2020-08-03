@@ -22,7 +22,7 @@ Hunt for threat actors on Windows networks using Python
 Defend web applications against common vulnerabilities
             
           
-**** Lab Setup (8)
+**** Lab Setup (8) Completed
 
       1. Video Recording (Completed: yes)
       2. Virutal Machine (Completed: yes)
@@ -33,8 +33,8 @@ Defend web applications against common vulnerabilities
       7. Malware Dataset (Completed:yes)
       8. Reverse Engineering (Completed: yes)
       
-      
-**** Curriculum 
+   
+**** Internship  Curriculum 
 
     1. Security Tools
         USE METASPLOIT TO IDENTIFY A MACHINE VULNERABLE TO MS17-010 (Completed:yes)
@@ -168,6 +168,99 @@ Defend web applications against common vulnerabilities
   2. Use Burp Suite to brute force an authentication web page.(Completed: )
   3. Use BeEF to exploit users using a cross-site scripting vulnerability (Completed: )
   4. Use Burp Suite to fuzz the user inputs of a website (Completed: )
+  
+#####Training Modules####
+
+**** MICS101 Internet Searching **** (9 Points)
+
+1. Google Hacking (completed: )
+2. Use Google to identify open FTP servers (completed: )
+3. Use Bing to find all the external links that a website contains (Completed: yes)
+4. Use Google's cache capability to retrieve deleted web pages (completed: )
+5. Use Web Archives to view old versions of websites (completed: yes)
+6. Use Web Archives to find people's old website (completed: )
+7. Use Google Translate (Completed: yes)
+8. Use Advantage to generate complex Google search queries (completed: )
+
+**** MICS102 - Technical Concepts **** (5 Points)
+
+1. Research the top penetration testing tools (Completed: yes)
+2. Research and write an article on a recent cyber breach (Completed: yes)
+3. Research the Cyber Kill Chain Model and the MITRE Matrix (Completed: yes)
+4. Research the major types of enterprise security software (Completed: yes)
+5. Research the most common network protocols and their vulnerabilities (Completed: yes)
+
+**** MICS103 - Enterprise Securitty Concepts **** (10 Points)
+
+1. Research the difference between procedures, guidelines, and policies (Completed: )
+2. Research ways that organizations may attempt to compromise your professional ethics (Completed: )
+3. Research what are controls and the different types of controls that exist (Completed: )
+4. Research the different types of risk (inherent risk, control risk, detection risk, and overall audit risk (Completed: )
+5. Research the four different types of risk response options (Completed: )
+6. Explain the difference between a threat, a vulnerability and an exploit (Completed: )
+7. Explain the difference between an issue and a risk (Completed: )
+8. Research the difference types of audits (Completed: )
+9. Explian the importance of sampling and how to successfully do it (Completed: )
+10. Research and explain the different types of cyber crimes (Completed: )
+
+**** MICS104 - Facebook OSINT **** (6 Points)
+
+1. Create covert social media accounts (Completed: )
+2. Search content by location on Facebook (Completed: )
+3. Search content posted by a given user on Facebook (Completed: )
+4. Find employees that work for a given employer on Facebook (Completed: )
+5. Create a Mindmap of all the OSINT data that can be captured from Facebook (Completed: )
+
+**** MICS201 - Passive Network Reconnaissance **** (5 Points)
+
+1. Use dnsdumpster.com to passively map an organizations external facing assets (Completed: )
+2. Use shodan.io to passively map an organization's external facing assets (Completed: )
+3. Use crt.sh to identify domains and sub-domains that belong to an organization (Completed: )
+4. Search for information leaks on Github using grep.app (Completed: )
+5. Use whoisds.com to retrieve recently registered domain names for a country (Completed: )
+
+**** MICS202 - Discover Attack Campaigns **** (3 Points)
+
+1. Detect typo squatting and phising with dnstwist.py (Completed: )
+2. Use urlscan.io to identify phishing and spear-phising websites (Completed: )
+3. Create Google searches to find open Cuckoo Sandboxes (Completed: )
+
+**** MICS203 - Operational Security **** (5 Points)
+
+1. Lab Setup: Cloud Vm for Threat Intelligence (Completed: )
+2. Conduct a safe port scan of a host (Completed: )
+3. Conduct a safe nslookup of a domain (Completed: )
+4. Conduct a safe HTTP request against a mockup attacker infrastructure (Completed: )
+5. Safely conduct banner grab of ports on a host (Completed: )
+
+**** MICS301 - Microsoft Windows Fundamentals **** (5 points)
+
+1. Use PE Studio to analyse 5 files on your computer (Completed: )
+2. Use TCPView to identify open ports and network services (Completed: )
+3. Use Process Hacker to investigate running processes (Completed: )
+4. Use ranas.exe to excute a process as another user (Completed: )
+5. Use PsExec to gain SYSTEM privledges on your machine (Completed: )
+
+**** MICS 302 - Security Tools **** 8 points
+
+1. Brute Force web directories and files using WFUZZ (Completed: )
+2. Use sslscan to access the SSL configuration setting of HTTPS websites (Completed: )
+3. Perform a TCP port scan using Nmap (Completed: yes)
+4. perform a UDP port scan using Nmap (Completed: yes)
+5. Use NMAP to print the readable strings from service fingerprints of unkown services (Completed: )
+6. Extract HTML and JavaScropt comments from HTTP response (Completed: )
+7. Use sublist3r.py to perform subdomain enumeration (Completed: )
+8. Dump the RAM of a Windows Machine (Completed: )
+
+
+****MICS303 - Governance, Risk and Complaince **** (5 Points)
+
+1. Research and Explain how a penetration test should be conducted (1 Point)
+2. Write a simple Risk Matrix (1 Point)
+3. Write a multiple Security Awareness Posters (1 point)
+4. Write a Password Policy (1 Points)
+5. Write an Assest Inventory Spreadsheet Template (1 Point)
+
       
  Series Three Solid 
       
