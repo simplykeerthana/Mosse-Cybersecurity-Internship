@@ -22,7 +22,7 @@ Hunt for threat actors on Windows networks using Python
 Defend web applications against common vulnerabilities
             
           
-**** Lab Setup (8)
+**** Lab Setup (8) Completed
 
       1. Video Recording (Completed: yes)
       2. Virutal Machine (Completed: yes)
@@ -33,8 +33,8 @@ Defend web applications against common vulnerabilities
       7. Malware Dataset (Completed:yes)
       8. Reverse Engineering (Completed: yes)
       
-      
-**** Curriculum 
+   
+**** Internship  Curriculum 
 
     1. Security Tools
         USE METASPLOIT TO IDENTIFY A MACHINE VULNERABLE TO MS17-010 (Completed:yes)
@@ -182,7 +182,7 @@ Defend web applications against common vulnerabilities
 7. Use Google Translate (Completed: yes)
 8. Use Advantage to generate complex Google search queries (completed: )
 
-**** MICS102 - Technical Concepts ****
+**** MICS102 - Technical Concepts **** (5 Points)
 
 1. Research the top penetration testing tools (Completed: yes)
 2. Research and write an article on a recent cyber breach (Completed: yes)
@@ -233,7 +233,24 @@ Defend web applications against common vulnerabilities
 4. Conduct a safe HTTP request against a mockup attacker infrastructure (Completed: )
 5. Safely conduct banner grab of ports on a host (Completed: )
 
+**** MICS301 - Microsoft Windows Fundamentals **** (5 points)
 
+1. Use PE Studio to analyse 5 files on your computer (Completed: )
+2. Use TCPView to identify open ports and network services (Completed: )
+3. Use Process Hacker to investigate running processes (Completed: )
+4. Use ranas.exe to excute a process as another user (Completed: )
+5. Use PsExec to gain SYSTEM privledges on your machine (Completed: )
+
+**** MICS 302 - Security Tools **** 8 points
+
+1. Brute Force web directories and files using WFUZZ (Completed: )
+2. Use sslscan to access the SSL configuration setting of HTTPS websites (Completed: )
+3. Perform a TCP port scan using Nmap (Completed: yes)
+4. perform a UDP port scan using Nmap (Completed: yes)
+5. Use NMAP to print the readable strings from service fingerprints of unkown services (Completed: )
+6. Extract HTML and JavaScropt comments from HTTP response (Completed: )
+7. Use sublist3r.py to perform subdomain enumeration (Completed: )
+8. Dump the RAM of a Windows Machine (Completed: )
 
 
   
