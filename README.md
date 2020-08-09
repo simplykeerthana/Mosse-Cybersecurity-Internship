@@ -144,7 +144,7 @@ Defend web applications against common vulnerabilities
  
   **** Malware Development(5) 
   
-  1. Write a Program that captures clipboard data (Completed: )
+  1. Write a Program that captures clipboard data (Completed: yes)
   2. Write a Program that captures screenshots (Completed: )
   3. Draft five spear-phising emails (Completed: )
   4. Write a web shell in PHP (Completed: )
