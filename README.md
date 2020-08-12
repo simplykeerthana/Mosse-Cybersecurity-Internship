@@ -53,7 +53,7 @@ Defend web applications against common vulnerabilities
          WRITE A WEB SHELL IN PHP (Completed: )
          WRITE A WEB APPLICATION VULNERABLE TO ARBITRARY COMMAND EXECUTION (Completed: )
          WRITE A PHP APPLICATION WITH AN EXPOSED PHPINFO.PHP PAGE (Completed: )
-         GOOGLE HACKING (Completed: )
+         GOOGLE HACKING (Completed: yes)
          WRITE A PS SCRIPT THAT INSTALLS AN INSECURE WINDOWS SERVICE (Completed: )
          EXECUTE ARBITRARY COMMANDS ON A SERVER VIA A SQL INJECTION VULNERABILITY (Completed: )
          WRITE A WEB APPLICATION WITH INSECURE XSS FILTERS (Completed: )
@@ -99,7 +99,7 @@ Defend web applications against common vulnerabilities
     6. Red Teaming
             WRITE A TCP REVERSE-SHELL AS A WINDOWS EXECUTABLE (Completed: )
             WRITE A HTTPS REVERSE-SHELL (Completed: )
-            EXCLUDE A FOLDER FROM ANTI-VIRUS SCANNING AND RUN MIMIKATZ FROM THERE (Completed: )
+            EXCLUDE A FOLDER FROM ANTI-VIRUS SCANNING AND RUN MIMIKATZ FROM THERE (Completed:yes )
             
        
             
