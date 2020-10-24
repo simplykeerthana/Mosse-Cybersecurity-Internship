@@ -4,7 +4,7 @@ This is a cybersecurity Internship Online Platform to receive a professional ind
 
 Goal to complete this Internship before December 2020.
 
-**** Aiming to land a Cybersecurity Internship for next coop term. (4 or 8 months)
+**** Aiming to land a Cybersecurity position for summer. 
 
 **** all these content below is from the internship dashboard. This readme is a checklist to keep me on track. 
 
