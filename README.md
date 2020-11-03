@@ -50,7 +50,7 @@ Defend web applications against common vulnerabilities
         
     2. Penetration Testing
          WRITE A PS SCRIPT THAT ENABLES THE ALWAYSINSTALLELEVATED REGISTRY KEY (Completed: )
-         WRITE A WEB SHELL IN PHP (Completed: )
+         WRITE A WEB SHELL IN PHP (Completed: yes )
          WRITE A WEB APPLICATION VULNERABLE TO ARBITRARY COMMAND EXECUTION (Completed:yes )
          WRITE A PHP APPLICATION WITH AN EXPOSED PHPINFO.PHP PAGE (Completed: yes)
          GOOGLE HACKING (Completed: yes)
