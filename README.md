@@ -2,9 +2,8 @@
 
 This is a cybersecurity Internship Online Platform to receive a professional industry recognized certificate.
 
-Goal to complete this Internship before December 2020.
+Goal to complete this Internship before February 2020.
 
-**** Aiming to land a Cybersecurity position for summer. 
 
 **** all these content below is from the internship dashboard. This readme is a checklist to keep me on track. 
 
